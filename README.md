@@ -24,7 +24,7 @@
 
 ### :man_technologist: About Me 
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a ReactJS Developer from Ukraine.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a ReactJS Developer from Ukraine.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
 
@@ -32,7 +32,8 @@
 
 - :zap: In my free time, I'm coding and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mykytaprykhodchenko)
+- :mailbox:How to reach me: 
+- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mykytaprykhodchenko)
 
 ---
 
@@ -51,7 +52,9 @@
 ---
 
 ### :fire: My Stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prykhodchenkomykyta&theme=radical&date_format=j%20M%5B%20Y%5D&ring=8B265C)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prykhodchenkomykyta&layout=compact&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
