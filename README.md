@@ -54,6 +54,7 @@
 
 
 https://github-readme-streak-stats.herokuapp.com/?user=prykhodchenkomykyta
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prykhodchenkomykyta&theme=dark&background=000000)](https://git.io/streak-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prykhodchenkomykyta&theme=radical&background=000000)](https://git.io/streak-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prykhodchenkomykyta&theme=radical&date_format=j%20M%5B%20Y%5D&ring=8B265C)](https://git.io/streak-stats)
