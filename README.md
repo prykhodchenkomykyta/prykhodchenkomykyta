@@ -33,7 +33,7 @@
 - :zap: In my free time, I'm coding and read tech articles.
 
 - :mailbox:How to reach me: 
-- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mykytaprykhodchenko)
+- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mykytaprykhodchenko)
 
 ---
 
@@ -52,6 +52,8 @@
 ---
 
 ### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prykhodchenkomykyta&theme=radical&background=000000)](https://git.io/streak-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prykhodchenkomykyta&theme=radical&date_format=j%20M%5B%20Y%5D&ring=8B265C)](https://git.io/streak-stats)
 
