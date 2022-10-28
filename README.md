@@ -1,4 +1,3 @@
-<div align ="center">
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
 </div>
@@ -61,4 +60,3 @@ https://github-readme-streak-stats.herokuapp.com/?user=prykhodchenkomykyta
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-</div>
