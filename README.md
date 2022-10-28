@@ -10,6 +10,5 @@
 <img src="https://komarev.com/ghpvc/?username=prykhodchenkomykyta&style=flat-square&color=blue" alt=""/>
 <h1>
   Welcome!
-  <img src="https://i.pinimg.com/736x/fe/bb/d4/febbd478ad268919fbf80b0b5e069165.jpg" width="30px"/>
 </h1>
 </div>
