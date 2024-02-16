@@ -26,11 +26,11 @@
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a ReactJS Developer from Ukraine :ukraine:
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
+- :telescope: I work as a Front-End Developer and build web applications
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Technical Content Writing
 
-- :zap: In my free time, I'm coding and read tech articles.
+- :zap: In my free time I code fun stuff
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mykytaprykhodchenko)
 
