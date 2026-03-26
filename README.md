@@ -73,10 +73,15 @@
 
 ### 🔥 My Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prykhodchenkomykyta&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prykhodchenkomykyta&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prykhodchenkomykyta&langs_count=8&card_width=450&layout=compact&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prykhodchenkomykyta&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prykhodchenkomykyta&theme=radical" />
+</div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prykhodchenkomykyta&theme=radical&date_format=j%20M%5B%20Y%5D&ring=8B265C)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=prykhodchenkomykyta&theme=radical&date_format=j%20M%5B%20Y%5D&ring=8B265C)](https://git.io/streak-stats)
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=prykhodchenkomykyta&theme=radical&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
