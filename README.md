@@ -29,7 +29,7 @@
 - 🚀 **FullStack Developer** building web & mobile applications end-to-end
 - 📱 **React Native** — crafting cross-platform mobile experiences
 - 🌐 **Front-End** — React, TypeScript, Redux, modern UI/UX
-- ⚙️ **Back-End** — Node.js, Go, REST APIs, SQL/NoSQL databases
+- ⚙️ **Back-End** — Node.js, REST APIs, SQL/NoSQL databases
 - 🐳 **DevOps** — Docker, CI/CD pipelines
 - 🌱 Currently exploring cloud infrastructure & system design
 - 🇺🇦 Based in Ukraine — building through everything
@@ -55,7 +55,6 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
@@ -80,9 +79,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prykhodchenkomykyta&theme=radical&date_format=j%20M%5B%20Y%5D&ring=8B265C)](https://git.io/streak-stats)
 
----
 
-### ✍️ Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/itszed0/test-post-490g)
-<!-- BLOG-POST-LIST:END -->
