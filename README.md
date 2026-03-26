@@ -1,5 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Mykyta!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=FullStack%20Developer%20%26%20React%20Native%20Engineer%20%F0%9F%87%BA%F0%9F%87%A6&descAlignY=55&descSize=18" width="100%"/>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/mykytaprykhodchenko">
@@ -10,16 +11,12 @@
     </a>
   </div>
 
-  <img src="https://komarev.com/ghpvc/?username=prykhodchenkomykyta&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=prykhodchenkomykyta&style=flat-square&color=blueviolet" alt=""/>
 
-  <h1>
-    Hey, I'm Mykyta!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  <br/><br/>
 
-  <h3>FullStack Developer & React Native Engineer from Ukraine 🇺🇦</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B94FD4&center=true&vCenter=true&width=600&lines=FullStack+Developer+%F0%9F%9A%80;React+Native+Engineer+%F0%9F%93%B1;Node.js+%26+Go+Back-End+%E2%9A%99%EF%B8%8F;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG"/>
 
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
@@ -83,6 +80,8 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=prykhodchenkomykyta&theme=radical&no-frame=true&row=1&column=7" alt="trophies"/>
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prykhodchenkomykyta&theme=redical&bg_color=20232a&color=B94FD4&line=B94FD4&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
