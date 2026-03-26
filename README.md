@@ -73,15 +73,16 @@
 
 ### 🔥 My Stats
 
+<div align="center">
+
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prykhodchenkomykyta&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prykhodchenkomykyta&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prykhodchenkomykyta&theme=radical" />
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prykhodchenkomykyta&theme=radical" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prykhodchenkomykyta&theme=radical" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=prykhodchenkomykyta&theme=radical&date_format=j%20M%5B%20Y%5D&ring=8B265C)](https://git.io/streak-stats)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=prykhodchenkomykyta&theme=radical&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=prykhodchenkomykyta&theme=radical&no-frame=true&row=1&column=7" alt="trophies"/>
+
+</div>
 
 
