@@ -18,7 +18,7 @@
 
   <br/><br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B94FD4&center=true&vCenter=true&width=600&lines=FullStack+Developer+%F0%9F%9A%80;React+Native+Engineer+%F0%9F%93%B1;Node.js+%26+Go+Back-End+%E2%9A%99%EF%B8%8F;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B94FD4&center=true&vCenter=true&width=600&lines=FullStack+Developer+%F0%9F%9A%80;React+Native+Engineer+%F0%9F%93%B1;Node.js+%26+Back-End+%E2%9A%99%EF%B8%8F;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG"/>
 
 </div>
 
